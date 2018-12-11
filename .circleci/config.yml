@@ -18,7 +18,7 @@ jobs:
           root: .
           # Must be relative path from root
           paths:
-            - ./src/pub/*.dll
+            - ./src/pub/*
 
   publish-github-release:
     docker:
