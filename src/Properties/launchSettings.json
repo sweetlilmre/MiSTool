@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MiSTer_Bootstrap": {
+      "commandName": "Project",
+      "commandLineArgs": "fetch --url https://raw.githubusercontent.com/OpenVGS/MiSTer-repository/master/repo.json"
+    }
+  }
+}
